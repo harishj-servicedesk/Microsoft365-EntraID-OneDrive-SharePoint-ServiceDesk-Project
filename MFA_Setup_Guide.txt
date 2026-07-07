@@ -1,0 +1,11 @@
+Multi-Factor Authentication Setup
+
+1. Sign in to Microsoft 365.
+2. Open Security Information.
+3. Select Add Method.
+4. Choose Microsoft Authenticator.
+5. Install Microsoft Authenticator on your phone.
+6. Scan the QR code.
+7. Approve the test notification.
+8. Save the settings.
+9. Test the login.
